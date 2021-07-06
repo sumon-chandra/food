@@ -235,6 +235,82 @@ hr{
 }
 
 
+/*----------------------------Contract Area -------------------------*/
+
+#contract_area{
+    width:960px;
+    height:70vh;
+    background-image: url(shapes/Frame\ 59.jpg);
+    background-position: center;
+    background-size:cover;
+    margin: 0 auto;
+}
+
+.forms{
+    width:100%;
+    height: 100%;
+}
+.forms input{
+    width:300px;
+    height:25px;
+    border-top:0;
+    border-left:0;
+    border-right:0;
+    border-bottom: 3px solid tomato;
+    margin:30px 0 0 50px;
+}
+.contract{
+    height:280px;
+}
+.contract a{
+    font-size: 30px;
+    text-decoration: none;
+    color:#fff;
+    padding: 10px 20px;
+    background: linear-gradient(tomato, #cf2900);
+    box-shadow: 5px 5px 18px 6px #888888;
+    border-radius: 10px;
+}
+
+.contract a:hover{
+    background: linear-gradient(#cf2900, tomato);
+}
+
+.contract h1{
+    text-align: center;
+    margin-top:80px;
+    font-size: 50px;
+    color:tomato;
+}
+
+.footer{
+    width:960px;
+    height:45vh;
+    background-color:#d4d3d3;
+    margin:0 auto;
+}
+
+.footer h1{
+    text-align: center;
+    color:tomato;
+    font-size: 60px;
+}
+.footer p{
+    text-align: center;
+}
+
+.fotter_text img{
+    width:150px;
+    margin-left:40%;
+}
+
+
+
+
+
+
+
+
 
 
 
